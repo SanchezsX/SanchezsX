@@ -4,7 +4,19 @@ Hi 👋 My name is Sasha
 Frontend Developer
 ------------------
 
-As a frontend developer specializing in developing innovative web projects and features, I am proficient in HTML, CSS and JavaScript. In addition, I specialize in React and TypeScript development. I am enthusiastic about expanding my knowledge and skills and am willing to quickly adapt and learn new technologies in the field.
+Hi there!
+
+My name is Sasha, and I'm a Junior Frontend developer.
+Nice to meet you!
+I am highly motivated and passionate about frontend development. Collaboration is key for me—I believe that people are the most valuable resource in any company, so creating and maintaining a friendly and supportive atmosphere is important everywhere I work.
+
+Tech stack:
+
+React 
+JavaScript
+TypeScrip
+Tailwind
+I would be delighted to join your team!
 
 * 🌍  I'm based in Poznan
 * ✉️  You can contact me at [bilysana7@gmail.com](mailto:bilysana7@gmail.com)
