@@ -12,10 +12,10 @@ I am highly motivated and passionate about frontend development. Collaboration i
 
 Tech stack:
 
-React 
-JavaScript
-TypeScrip
-Tailwind
+React, 
+JavaScript,
+TypeScrip,
+Tailwind,
 I would be delighted to join your team!
 
 * 🌍  I'm based in Poznan
