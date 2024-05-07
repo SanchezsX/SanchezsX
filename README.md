@@ -19,7 +19,9 @@ Tailwind
 I would be delighted to join your team!
 
 * 🌍  I'm based in Poznan
-* ✉️  You can contact me at [bilysana7@gmail.com](mailto:bilysana7@gmail.com)
+* ✉️  You can contact me at [bilyk.oleksander05@gmail.com
+](mailto:bilyk.oleksander05@gmail.com
+)
 * 🧠  I'm learning Next.js
 
 ### Skills
