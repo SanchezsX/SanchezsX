@@ -15,7 +15,7 @@ Tech stack:
 React, 
 JavaScript,
 TypeScrip,
-Tailwind,
+Tailwind
 I would be delighted to join your team!
 
 * 🌍  I'm based in Poznan
