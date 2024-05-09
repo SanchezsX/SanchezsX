@@ -8,7 +8,7 @@ Hi there!
 
 My name is Sasha, and I'm a Junior Frontend developer.
 Nice to meet you!
-I am highly motivated and passionate about frontend development. Collaboration is key for me—I believe that people are the most valuable resource in any company, so creating and maintaining a friendly and supportive atmosphere is important everywhere I work
+I am highly motivated and passionate about frontend development. Collaboration is key for me—I believe that people are the most valuable resource in any company, so creating and maintaining a friendly and supportive atmosphere is important everywhere I work.
 
 Tech stack:
 
