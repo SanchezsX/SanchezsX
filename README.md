@@ -4,7 +4,7 @@ Hi 👋 My name is Sasha
 Frontend Developer
 ------------------
 
-Hi there!
+Hi there
 
 Frontend development is my passion. I deeply believe that the team is the heart of every company and I always gladly contribute positively to it. I am open to sharing my knowledge as well as learning from experienced professionals. I am enthusiastic about joining your project and ready to actively contribute to its success and grow together with the team.
 Tech stack:
