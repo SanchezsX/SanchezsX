@@ -20,7 +20,7 @@ I would be delighted to join your team!
 * ✉️  You can contact me at [bilyk.oleksander05@gmail.com
 ](mailto:bilyk.oleksander05@gmail.com
 )
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Next.js, Redax
 
 ### Skills
 
