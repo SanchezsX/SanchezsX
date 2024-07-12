@@ -16,7 +16,7 @@ Tailwind,
 REST API
 I would be delighted to join your team!
 
-* 🌍  I'm based in Poznan.
+* 🌍  I'm based in Poznań.
 * ✉️  You can contact me at [bilyk.oleksander05@gmail.com
 ](mailto:bilyk.oleksander05@gmail.com
 )
